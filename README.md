@@ -6,6 +6,6 @@ coursera-test-repository
 <title>Hello Coursera!</title>
 </head>
 <body>
-<h1>Hello Coursera!</h>
+<h1>Hello Coursera!</h1>
 </body>
 </html>
